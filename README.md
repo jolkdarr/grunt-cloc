@@ -72,6 +72,7 @@ grunt.initConfig({
 
 ## Release History
 * _0.0.1_ First release.
+* _0.0.2_ `package.json` fixed.
 
 ## License
 Copyright (c) 2015 B. Djoudi. Licensed under the MIT license.

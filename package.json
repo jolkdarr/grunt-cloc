@@ -1,14 +1,14 @@
 {
     "name": "grunt-cloc",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "CLOC launch utility.",
     "repository": {
         "type": "git",
         "url": "https://github.com/jolkdarr/grunt-cloc.git"
-    }
+    },
     "bugs": {
         "url": "https://github.com/jolkdarr/grunt-cloc/issues"
-    }
+    },
     "author": {
         "name": "Brahim Djoudi",
         "email": "jolkdarr@netscape.net"
