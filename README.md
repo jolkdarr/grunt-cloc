@@ -75,4 +75,4 @@ grunt.initConfig({
 * _0.0.2_ `package.json` fixed.
 
 ## License
-Copyright (c) 2015 B. Djoudi. Licensed under the MIT license.
+Copyright (c) 2022 B. Djoudi. Licensed under the MIT license.
